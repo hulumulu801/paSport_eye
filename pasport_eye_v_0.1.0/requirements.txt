@@ -1,0 +1,9 @@
+dlib==19.21.1
+Pillow==8.1.0
+scikit-image==0.18.1
+scipy==1.6.0
+imutils==0.5.4
+opencv-python==4.5.1.48
+numpy==1.19.5
+pytesseract==0.3.7
+natsort==7.1.1
