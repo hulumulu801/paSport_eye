@@ -9,4 +9,4 @@ Ubuntu 20.04.1 LTS
 
 - Основные библиотеки:
 
-OpenCV, Tesseract, Dlib
+      OpenCV, Tesseract, Dlib
