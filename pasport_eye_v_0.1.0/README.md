@@ -13,6 +13,8 @@
       sudo apt-get install python3 python3-dev python3-pip -y
       sudo apt-get install cmake -y
       sudo apt-get install python3-matplotlib python3-numpy python3-pil python3-scipy -y
+      sudo apt-get install tesseract-ocr
+      sudo apt-get install tesseract-ocr-all
       
       
   
