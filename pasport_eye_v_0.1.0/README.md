@@ -27,6 +27,12 @@
   - скачиваем репозиторий:
   
         git clone https://github.com/hulumulu801/pasport_eye.git
+  - переходим в директорию:
+  
+        cd pasport_eye/
+  - еще раз:
+  
+        cd pasport_eye_v_0.1.0/
   
         
 
