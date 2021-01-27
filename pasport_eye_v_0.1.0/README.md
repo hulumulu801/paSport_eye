@@ -24,7 +24,20 @@
   
         sudo apt-get install tesseract-ocr -y
         sudo apt-get install tesseract-ocr-all -y
-  - скачиваем shape_predictor_68_face_landmarks.dat:
+  - скачиваем репозиторий:
+  
+        git clone https://github.com/hulumulu801/pasport_eye.git
+  
+        
+
+
+
+
+
+
+
+
+- скачиваем shape_predictor_68_face_landmarks.dat:
   
         wget https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
         bunzip2 shape_predictor_68_face_landmarks.dat.bz2
