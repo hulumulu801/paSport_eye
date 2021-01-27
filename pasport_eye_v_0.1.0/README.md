@@ -37,11 +37,6 @@
   
         wget https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
         bunzip2 shape_predictor_68_face_landmarks.dat.bz2
-  - обновляем pip и setuptools:
-  
-        export PATH=/Users/<YOU>/Library/Python/3.8/bin:$PATH
-        pip3 install --no-warn-script-location --upgrade pip
-        pip3 install --no-warn-script-location --upgrade setuptools
   - устанавливаем нужные библиотеки:
   
         pip3 install --no-warn-script-location -r requirements.txt
