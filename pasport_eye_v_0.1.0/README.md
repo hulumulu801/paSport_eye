@@ -39,4 +39,4 @@
         bunzip2 shape_predictor_68_face_landmarks.dat.bz2
   - устанавливаем нужные библиотеки:
   
-        pip3 install --no-warn-script-location -r requirements.txt
+        pip3 install -r requirements.txt
