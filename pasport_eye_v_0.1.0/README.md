@@ -26,7 +26,8 @@
         sudo apt-get install tesseract-ocr-all -y
   - скачиваем shape_predictor_68_face_landmarks.dat:
   
-        https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
+        wget https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
+        bunzip2 shape_predictor_68_face_landmarks.dat.bz2
       
       
   
