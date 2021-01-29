@@ -27,8 +27,7 @@ Ubuntu 20.04.1 LTS
 
 # Обратная связь:
 
-      hulumulu801@gmail.com
+hulumulu801@gmail.com
 # Пожертвования:
 
-<script src="https://liberapay.com/hulumulu801/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/hulumulu801/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
