@@ -32,7 +32,7 @@
         cd pasport_eye/
   - еще раз:
   
-        cd pasport_eye_v_0.1.0/
+        cd pasport_eye_v_0.1.1/
   - скачиваем shape_predictor_68_face_landmarks.dat:
   
         wget https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
