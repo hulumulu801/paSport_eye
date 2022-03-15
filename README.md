@@ -33,6 +33,8 @@ Ubuntu 20.04.4 LTS
       OpenCV, Tesseract, Dlib, rembg(https://github.com/danielgatis/rembg)
 
 - Удаление заднего фона
+ 
+![anim](https://user-images.githubusercontent.com/52704904/158490528-2c0d14e4-5c6b-43d5-98b9-ffc0a89d31ef.gif)
 
 
 # Какие проблемы:
