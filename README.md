@@ -3,7 +3,7 @@
 # Под капотом:
 python3
 
-Ubuntu 20.04.2 LTS
+Ubuntu 20.04.4 LTS
 # Версии:
 
 **pasport_eye_v_0.1.0**
