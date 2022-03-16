@@ -71,12 +71,12 @@ def main():
         # возврат полного пути + конвертация изображения в .png
         path_cache_pict = ReturnPathConvertImage(abs_path_pict).main()
         # возврат полного пути + удаление заднего плана
-        path_pict_no_bg = RemoveBG(path_cache_pict, visualization=True).main()
+        path_pict_no_bg = RemoveBG(path_cache_pict, visualization=False).main()
 
         # возврат словаря с данными(изображение без фото лица, само фото лица) + дескрипторы лица
-        dict_image_no_face_and_cropped_face, list_face_descriptor = FaceWork(path_pict_no_bg, visualization=True).main()
+        dict_image_no_face_and_cropped_face, list_face_descriptor = FaceWork(path_pict_no_bg, visualization=False).main()
         # возврат списка выделенных данных с помощью cv2
-        data_list_gorizontal, data_list_vertical = SDWCV2(dict_image_no_face_and_cropped_face, visualization=True).main()
+        data_list_gorizontal, data_list_vertical = SDWCV2(dict_image_no_face_and_cropped_face, visualization=False).main()
         # возврат списка распознанных с помощью tesseract данных
         list_all_data_gorizontal, list_all_data_vertical = TessRecogn(
                                                                         improved_recognition,
