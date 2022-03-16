@@ -29,10 +29,7 @@
         git clone https://github.com/hulumulu801/pasport_eye.git
   - переходим в директорию:
   
-        cd pasport_eye/
-  - еще раз:
-  
-        cd pasport_eye_v_0.1.1/
+        cd pasport_eye && cd pasport_eye_v_0.1.1
   - скачиваем shape_predictor_68_face_landmarks.dat:
   
         wget https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
